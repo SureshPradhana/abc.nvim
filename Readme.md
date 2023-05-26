@@ -25,5 +25,5 @@ C:.
             pluginConfigs.lua
 ```
 # screenshots
-![screenshot 1](screenshots\img1.jpg)
+![screenshot 1](./screenshots/img1.jpg)
 
